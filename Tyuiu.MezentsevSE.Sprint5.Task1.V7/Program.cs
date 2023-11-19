@@ -16,13 +16,13 @@ namespace Tyuiu.MezentsevSE.Sprint5.Task1.V7
             int stopValue = 5;
             DataService ds = new DataService();
 
-            Console.Title = "Спринт #5 | Выполнил: Мезенцев С.Е. | ИИПб-23-3";
+            Console.Title = "Спринт #5 | Выполнил: Мезенцев С.Е. | ИИПб-23-2";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #5                                                               *");
             Console.WriteLine("* Тема: Обработка файлов                                                  *");
             Console.WriteLine("* Задание #1                                                              *");
             Console.WriteLine("* Вариант #7                                                              *");
-            Console.WriteLine("* Выполнила: Мезенцев С.Е. | ИИПб-23-3                                    *");
+            Console.WriteLine("* Выполнила: Мезенцев С.Е. | ИИПб-23-2                                    *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Вычислить значения функции, ответы занести в файл.                      *");
